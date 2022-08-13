@@ -147,9 +147,9 @@
 
 @media screen and (max-width:600px) {
     .row1{
-        width: 85px;
-        padding: 5px;
-        font-size: x-small;
+        width: 82px;
+        padding: 4px;
+        font-size: xx-small;
         font-weight: 500;
         color: white;
         display: inline;
