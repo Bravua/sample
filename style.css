@@ -147,8 +147,8 @@
 
 @media screen and (max-width:600px) {
     .row1{
-        width: 82px;
-        padding: 4px;
+        width: 80px;
+        padding: 6px;
         font-size: xx-small;
         font-weight: 500;
         color: white;
