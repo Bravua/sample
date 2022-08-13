@@ -147,14 +147,14 @@
 
 @media screen and (max-width:600px) {
     .row1{
-        width: 90px;
+        width: 85px;
         padding: 5px;
         font-size: x-small;
         font-weight: 500;
         color: white;
         display: inline;
-        margin-left: 3px;
-        margin-right:3px;
+        margin-left: 2px;
+        margin-right:2px;
         text-align: center;
         text-decoration: none;
     }
